@@ -1,5 +1,5 @@
 
-resource 'local2_new', {
+resource 'local2', {
   description = 'Local resource created during installation.'
   hostName = 'flow-bound-agent'
   hostType = 'REGISTERED'
