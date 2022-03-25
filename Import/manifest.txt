@@ -1,0 +1,4 @@
+Resources/local 
+Resources/local2_new 
+Resources/qa-agent 
+
