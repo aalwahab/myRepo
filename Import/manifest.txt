@@ -1,4 +1,0 @@
-local/resource.dsl 
-local2_new/resource.dsl 
-qa-agent/resource.dsl 
-
