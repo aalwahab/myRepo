@@ -1,3 +1,5 @@
-/Resources/local.dsl
-/Resources/local2.dsl
-/Resources/qa-agent.dsl
+manifest.txt 
+local/resource.dsl 
+local2_new/resource.dsl 
+qa-agent/resource.dsl 
+
