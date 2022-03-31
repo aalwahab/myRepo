@@ -1,6 +1,6 @@
 
 resource 'prod-agent', {
-  description = 'prod'
+  description = 'Prod Environment'
   artifactCacheDirectory = ''
   hostName = 'flow-bound-agent'
   hostType = 'REGISTERED'
