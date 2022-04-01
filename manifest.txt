@@ -1,2 +1,4 @@
 Resources/local.dsl 
+Resources/prod-agent.dsl 
+Resources/qa-agent.dsl 
 
