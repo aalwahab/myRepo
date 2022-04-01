@@ -1,3 +1,2 @@
 Resources/local.dsl 
-Resources/prod-agent.dsl 
 
