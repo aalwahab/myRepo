@@ -1,6 +1,0 @@
-Resource Pools/default.dsl 
-Resource Pools/Resources/local.dsl 
-Resource Pools/Resources/qa-agent.dsl 
-Resource Pools/iii.dsl 
-Resource Pools/Resources/prod-agent.dsl 
-
