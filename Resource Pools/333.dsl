@@ -6,5 +6,6 @@ resourcePool '333', {
   resourceName = [
     'prod-agent',
     'qa-agent',
+    'dev-agent',
   ]
 }
